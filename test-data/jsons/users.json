@@ -1,0 +1,10 @@
+{
+    "active-user": {
+        "email": "[EMAIL_ADDRESS]",
+        "password": "[PASSWORD]"
+    },
+    "inactive-user": {
+        "email": "[EMAIL_ADDRESS]",
+        "password": "[PASSWORD]"
+    }
+}
